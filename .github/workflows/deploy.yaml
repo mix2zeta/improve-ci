@@ -1,4 +1,4 @@
-name: Deploy image -> server
+name: Deploy image -> Bug server
 on: [workflow_dispatch]
 
 jobs:
